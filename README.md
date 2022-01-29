@@ -1,4 +1,3 @@
-# 115-191-Delafield-St
 
 # The 115-191-Delafield-St For Sale
 > A Github pages website used as a web brochure for a piece of real estate that is for sale.
